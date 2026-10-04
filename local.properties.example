@@ -1,0 +1,2 @@
+# Copie para local.properties e coloque sua chave (https://openweathermap.org/api)
+OPENWEATHER_API_KEY=SUA_CHAVE_AQUI
